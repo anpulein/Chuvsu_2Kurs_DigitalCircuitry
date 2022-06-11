@@ -13,7 +13,7 @@ _Group_: ИВТ-41-20
 _Student_: Галкин Дмитрий  
 _Teacher_: Серебрянников Александр Владимирович  
 _Semestr_: 4  
-_subject of study_: Цифровая схемотехника
+_Subject of study_: Цифровая схемотехника
 
 # Table of contents
 - [Title-page](#Title-page)
