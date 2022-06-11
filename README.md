@@ -24,9 +24,9 @@ _Semestr_: 4
 
 ### 🤖 Software used (semestr 4)
 
-| Name    | Icons                                             | Information                |
-|---------|---------------------------------------------------|----------------------------|
-| DOSbox  | <img src="../main/title_page/dos.png" height='64'>| `Multisim`                 |
+| Name    | Icons                                                  | Information                |
+|---------|--------------------------------------------------------|----------------------------|
+| DOSbox  | <img src="../main/title_page/multisim.png" height='64'>| `Multisim`                 |
 
 
 [(Back to top)](#table-of-contents)
