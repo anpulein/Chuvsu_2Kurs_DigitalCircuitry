@@ -25,9 +25,9 @@ _Subject of study_: Цифровая схемотехника
 
 ### 🤖 Software used (semestr 4)
 
-| Name    | Icons                                                  | Information                |
-|---------|--------------------------------------------------------|----------------------------|
-| DOSbox  | <img src="../main/title_page/multisim.png" height='64'>| `Multisim`                 |
+| Name     | Icons                                                  | Information                |
+|----------|--------------------------------------------------------|----------------------------|
+| Multisim | <img src="../main/title_page/multisim.png" height='64'>| `Multisim`                 |
 
 
 [(Back to top)](#table-of-contents)
